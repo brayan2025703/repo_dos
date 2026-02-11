@@ -39,4 +39,4 @@ Breve descripcion
 ## Instalacion
 - Pasos para instalar el proyecto localmente
 ```bash
-git clone
+git clone https://github.com/brayan2025703/repo_dos.git
