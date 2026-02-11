@@ -3,7 +3,7 @@ repositorio para pruebas y trabajos en grupo
 
 # Proyeccto de uso de herramientas Git contribuyentes
 
-Breve descripcion
+linea para generar conflicto rama brayasn
 
 ---
 
