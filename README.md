@@ -45,4 +45,4 @@ git clone https://github.com/brayan2025703/repo_dos.git
 ```
 #video tutorial
 
-[![Click para ver video](asset/imagen.webp)](https://www.youtube.com/watch?v=e8X3ACToii0&list=RDe8X3ACToii0&start_radio=1)
+[![Click para ver video](https://tse1.explicit.bing.net/th/id/OIP.27PktD-LK9JO7fuVCHf3aQHaFt?rs=1&pid=ImgDetMain&o=7&rm=3)](https://www.youtube.com/watch?v=e8X3ACToii0&list=RDe8X3ACToii0&start_radio=1)
