@@ -4,7 +4,8 @@ repositorio para pruebas y trabajos en grupo
 # Proyeccto de uso de herramientas Git contribuyentes
 
 linea para generar conflicto rama brayasn
-
+breve descripcion
+fabian
 ---
 
 ## Tabla de contenido
@@ -40,3 +41,8 @@ linea para generar conflicto rama brayasn
 - Pasos para instalar el proyecto localmente
 ```bash
 git clone https://github.com/brayan2025703/repo_dos.git
+
+```
+#video tutorial
+
+[![Click para ver video](asset/Flor.png)](https://www.youtube.com/watch?v=e8X3ACToii0&list=RDe8X3ACToii0&start_radio=1)
